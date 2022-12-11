@@ -1,6 +1,9 @@
 # StrangeMuseum
 자바 swing을 이용한 비단길 팀의 기묘한 박물관 게임입니다.
 
+![image](https://user-images.githubusercontent.com/101635183/206895604-c8d55825-cafe-4b63-83e7-b60b65ef401a.png)
+
+
 ![image](https://user-images.githubusercontent.com/101635183/206895437-cd1b202c-d4ba-40b0-b585-1f5126c07ddf.png)
 ![image](https://user-images.githubusercontent.com/101635183/206895447-b1ceeff3-4a4d-4ab7-95c6-64cac7d3c776.png)
 ![image](https://user-images.githubusercontent.com/101635183/206895449-93846254-8b1c-47c4-b174-e3392c525195.png)
