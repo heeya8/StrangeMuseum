@@ -12,19 +12,19 @@ Stage One
 
 ![stage1](https://user-images.githubusercontent.com/101635183/206912134-335d1e70-43d2-40f8-9271-ad9dc665c509.gif)
 
-<img src="https://user-images.githubusercontent.com/101635183/206912322-ff91ea0e-992d-4a73-be17-94d37d9ad8fe.png" width="31%"></img>
+<img src="https://user-images.githubusercontent.com/101635183/206912322-ff91ea0e-992d-4a73-be17-94d37d9ad8fe.png" width="33%"></img>
 
 Stage Two
 
 ![stage2](https://user-images.githubusercontent.com/101635183/206912514-087c134a-8a1b-461a-b272-bea2fc843830.gif)
 
-<img src="https://user-images.githubusercontent.com/101635183/206912534-7c8d0cc0-a9ab-4bce-8d2b-50c08a64c5d7.png" width="31%"></img>
+<img src="https://user-images.githubusercontent.com/101635183/206912534-7c8d0cc0-a9ab-4bce-8d2b-50c08a64c5d7.png" width="33%"></img>
 
 Stage Three
 
 ![stage3](https://user-images.githubusercontent.com/101635183/206912556-db3fa37f-73b8-4817-a110-0f512ecb58a6.gif)
 
-<img src="https://user-images.githubusercontent.com/101635183/206912570-581970fd-c51a-4aeb-8b26-36fe3aca021b.png" width="31%"></img>
+<img src="https://user-images.githubusercontent.com/101635183/206912570-581970fd-c51a-4aeb-8b26-36fe3aca021b.png" width="33%"></img>
 
 Ending
 
