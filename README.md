@@ -8,6 +8,7 @@ Tutorial
 Stage One
 
 ![stage1](https://user-images.githubusercontent.com/101635183/206912134-335d1e70-43d2-40f8-9271-ad9dc665c509.gif)
+
 <img src="https://user-images.githubusercontent.com/101635183/206912322-ff91ea0e-992d-4a73-be17-94d37d9ad8fe.png" width="50%"></img>
 
 
