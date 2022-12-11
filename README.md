@@ -8,7 +8,8 @@ Tutorial
 Stage One
 
 ![stage1](https://user-images.githubusercontent.com/101635183/206912134-335d1e70-43d2-40f8-9271-ad9dc665c509.gif)
-![stageGame1](https://user-images.githubusercontent.com/101635183/206912203-70d1afbc-5e9e-48f1-9d35-078a40058b76.png)
+![image](https://user-images.githubusercontent.com/101635183/206912237-48514d61-4190-4cd0-a9ba-76750f4f45b7.png)
+
 
 ![image](https://user-images.githubusercontent.com/101635183/206895437-cd1b202c-d4ba-40b0-b585-1f5126c07ddf.png)
 ![image](https://user-images.githubusercontent.com/101635183/206895447-b1ceeff3-4a4d-4ab7-95c6-64cac7d3c776.png)
