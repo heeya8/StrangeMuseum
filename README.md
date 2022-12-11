@@ -2,6 +2,8 @@
 자바 swing을 이용한 비단길 팀의 기묘한 박물관 게임입니다.
 
 
+
+
 Tutorial
 
 ![tutorial](https://user-images.githubusercontent.com/101635183/206895978-827df9de-6996-408b-81d5-a17022842b77.gif)
@@ -15,11 +17,13 @@ Stage One
 Stage Two
 
 ![stage2](https://user-images.githubusercontent.com/101635183/206912514-087c134a-8a1b-461a-b272-bea2fc843830.gif)
+
 <img src="https://user-images.githubusercontent.com/101635183/206912534-7c8d0cc0-a9ab-4bce-8d2b-50c08a64c5d7.png" width="31%"></img>
 
 Stage Three
 
 ![stage3](https://user-images.githubusercontent.com/101635183/206912556-db3fa37f-73b8-4817-a110-0f512ecb58a6.gif)
+
 <img src="https://user-images.githubusercontent.com/101635183/206912570-581970fd-c51a-4aeb-8b26-36fe3aca021b.png" width="31%"></img>
 
 Ending
