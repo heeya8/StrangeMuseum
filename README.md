@@ -9,7 +9,7 @@ Stage One
 
 ![stage1](https://user-images.githubusercontent.com/101635183/206912134-335d1e70-43d2-40f8-9271-ad9dc665c509.gif)
 ![image](https://user-images.githubusercontent.com/101635183/206912237-48514d61-4190-4cd0-a9ba-76750f4f45b7.png)
-<img src="![image](https://user-images.githubusercontent.com/101635183/206912322-ff91ea0e-992d-4a73-be17-94d37d9ad8fe.png)" width="1"></img>
+<img src="https://user-images.githubusercontent.com/101635183/206912322-ff91ea0e-992d-4a73-be17-94d37d9ad8fe.png" width="10"></img>
 
 
 ![image](https://user-images.githubusercontent.com/101635183/206895437-cd1b202c-d4ba-40b0-b585-1f5126c07ddf.png)
